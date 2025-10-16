@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thank You! | Amazon Book Publication</title>
+    <title>Thank You! | Amazon Book Publications</title>
     <link rel="shortcut icon" href="assets/fav.png" type="image/x-icon">
     <link rel="icon" href="assets/fav.png" type="image/x-icon">
 

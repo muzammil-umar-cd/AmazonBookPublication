@@ -73,7 +73,7 @@ if(isset($_POST['send_reserve_req']) || $_SERVER['REQUEST_METHOD'] === 'POST'){
       // LEAD API END
 
     
-    $data = '<h1 style="color: #01163A;text-align: center;">Amazon Book Publication Lead</h1><table style="width:100%; border: 1px solid black; border-collapse: collapse;">';
+    $data = '<h1 style="color: #01163A;text-align: center;">Amazon Book Publications Lead</h1><table style="width:100%; border: 1px solid black; border-collapse: collapse;">';
         $data .= '<tr>
 				<td style="border: 1px solid black; border-collapse: collapse; padding: 15px; text-align: left; font-size:15px; font-weight: 500;">Name<td><br>
 				<td style=" border: 1px solid black; border-collapse: collapse; padding: 15px; text-align: left; font-size:15px">' . $name . '</td><br>
@@ -141,9 +141,9 @@ if(isset($_POST['send_reserve_req']) || $_SERVER['REQUEST_METHOD'] === 'POST'){
     $mail->Port = 587; // TCP port to connect to
 
     // Recipients
-    $mail->setFrom('brandformsubmission@gmail.com', 'Amazon Book Publication');
+    $mail->setFrom('brandformsubmission@gmail.com', 'Amazon Book Publications');
 
-    // $mail->addAddress('info@amazonbookpublication.com'); // Add a recipient
+    // $mail->addAddress('info@amazonbookpublications.llc'); // Add a recipient
     $mail->addAddress('muzammil.coredigitals@gmail.com'); // Add a recipient
     
     // $mail->addCC('muzammil.coredigitals@gmail.com');
@@ -151,7 +151,7 @@ if(isset($_POST['send_reserve_req']) || $_SERVER['REQUEST_METHOD'] === 'POST'){
 
     // Content
     $mail->isHTML(true); // Set email format to plain text
-    $mail->Subject = 'Amazon Book Publication - Form Submission';
+    $mail->Subject = 'Amazon Book Publications - Form Submission';
     $mail->Body = $data;
 
     if ($mail->send()) {

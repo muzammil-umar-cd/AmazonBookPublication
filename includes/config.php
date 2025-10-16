@@ -17,6 +17,6 @@ $currentFullURL = "http" . (isset($_SERVER['HTTPS']) ? "s" : "") . "://" . $_SER
 
 define('PHONE', '+1 (412) 214-9197'); // phone
 define('PHONE_HREF', 'tel:+14122149197'); // tel: phone
-define('WEBSITE_NAME', 'Amazon Book Publication'); // website name
-define('ADMIN_EMAIL', 'info@amazonbookpublication.com'); // website name
+define('WEBSITE_NAME', 'Amazon Book Publications'); // website name
+define('ADMIN_EMAIL', 'info@amazonbookpublications.llc'); // website name
 define('ADDRESS', '301 Grant Street, Suite 270, Pittsburgh, PA, 15219.');
