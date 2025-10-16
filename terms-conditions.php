@@ -728,7 +728,7 @@
     // 
   </script>
   <style>
-    #chat-widget-container {
+    #chat-widget-container { 
       max-height: 500px !important;
     }
   </style>
@@ -746,7 +746,7 @@
      <script>
     $('input[name="phone"]').on('keypress', function(event) {
         var keyCode = event.keyCode || event.which;
-        var keyValue = String.fromCharCode(keyCode);
+        var keyValue = String.fromCharCode(keyCode); 
         var isValid = /^\d+$/.test(keyValue);
         
         if (!isValid) {
