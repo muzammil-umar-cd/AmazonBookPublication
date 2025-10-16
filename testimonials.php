@@ -355,7 +355,7 @@
                             <div class="row justify-content-lg-end justify-content-center">
                                 <div class="col-xl-10 col-lg-11 col-md-11 col-12 pe-lg-5">
                                     <h2 class="f-40">Why Authors Choose Our Services</h2>
-                                    <p>Authors trust Amazon Book Publications for our established success in securing
+                                    <p>Authors trust <?php echo WEBSITE_NAME; ?> for our established success in securing
                                         impactful book reviews—ranging from verified Amazon reviews to professional
                                         literary critiques. Our strategic approach is designed to maximize each book’s
                                         visibility and credibility across major platforms, strengthening author
