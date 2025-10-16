@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/teko/v22/LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy.ttf) format('truetype');
+}

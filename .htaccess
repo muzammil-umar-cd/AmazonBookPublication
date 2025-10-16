@@ -1,0 +1,50 @@
+Options -MultiViews
+RewriteEngine On
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Serve index.php for directories
+DirectoryIndex index.php index.html
+ErrorDocument 404 /404.php
+
+RewriteCond %{HTTP_HOST} ^www\.americanbookservices\.com$
+RewriteRule ^/?$ "https\:\/\/americanbookservices\.com\/" [R=301,L]
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+
+    # CSS
+    ExpiresByType text/css "access plus 1 day"
+
+    # JavaScript
+    ExpiresByType application/javascript "access plus 1 day"
+    ExpiresByType application/x-javascript "access plus 1 day"
+    ExpiresByType text/javascript "access plus 1 day"
+
+    # Images
+    ExpiresByType image/jpeg "access plus 1 week"
+    ExpiresByType image/png "access plus 1 week"
+    ExpiresByType image/gif "access plus 1 week"
+    ExpiresByType image/webp "access plus 1 week"
+    ExpiresByType image/svg+xml "access plus 1 week"
+    ExpiresByType image/x-icon "access plus 1 week"
+</IfModule>
+
+<IfModule mod_headers.c>
+    <FilesMatch "\.(css)$">
+        Header set Cache-Control "max-age=86400, public"
+    </FilesMatch>
+    <FilesMatch "\.(js)$">
+        Header set Cache-Control "max-age=86400, public"
+    </FilesMatch>
+    <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+        Header set Cache-Control "max-age=604800, public"
+    </FilesMatch>
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>

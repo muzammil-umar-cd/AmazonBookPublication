@@ -1,0 +1,1 @@
+gsap.to(".bannerbooks",{xPercent:-20,ease:"none",scrollTrigger:{trigger:".bannerbooks",start:"top center",end:"bottom top",scrub:!0}}),ScrollTrigger.create({trigger:".fixed-element",start:"top top",endTrigger:".service-item.last",end:()=>"bottom top+="+document.querySelector(".fixed-element").offsetHeight,pin:!0});
