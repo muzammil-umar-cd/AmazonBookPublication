@@ -111,7 +111,7 @@
                                             <span class="nav-open icon">×</span>
                                         </div>
                                         <div class="col-6">
-                                            <a href="index" class="logo d-block" aria-label="Home page"><img
+                                            <a href="/" class="logo d-block" aria-label="Home page"><img
                                                     class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
                                                     data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
                                         </div>
@@ -219,7 +219,7 @@
                                                         <ul class="list-unstyled">
                                                             <li class="mb-2">
                                                                 <a class="fw-700 clr-1"
-                                                                    href="book-publishing/index">Book
+                                                                    href="book-publishing">Book
                                                                     Publishing</a>
                                                             </li>
                                                             <li class="mb-2">
@@ -273,7 +273,7 @@
                                     </div>
                                 </li>
                                 <li class="py-lg-5">
-                                    <a href="book-publishing">Book Publishing</a>
+                                    <a href="testimonials">Testimonials</a>
                                 </li>
                                 <li class="py-lg-5"><a href="about-us">About Us</a></li>
                                 <li class="py-lg-5">
@@ -308,7 +308,7 @@
                             </ul>
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-4 col-6 text-center">
-                            <a href="index" class="logo d-block" aria-label="Home page"><img class="lozad logo"
+                            <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo"
                                     alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Logo.png" /></a>
                         </div>
                         <div class="col-xl-4 col-lg-4 d-none d-lg-block">
@@ -491,7 +491,7 @@
                     <div class="container-xxl">
                         <div class="row py-4 align-items-center justify-content-between">
                             <div class="col-lg-3 col-md-3">
-                                <a href="index"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
+                                <a href="/"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
                                         data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
                             </div>
                             <div class="col-xl-8 col-md-9">
@@ -549,7 +549,7 @@
                                                 <a class="fw-700" href="ghostwriting">Ghostwriting</a>
                                             </li>
                                             <li class="mb-2">
-                                                <a class="fw-700" href="book-publishing/index">Book Publishing</a>
+                                                <a class="fw-700" href="book-publishing">Book Publishing</a>
                                             </li>
                                             <li class="mb-2">
                                                 <a class="fw-700" href="book-marketing">Book Marketing</a>

@@ -128,14 +128,6 @@
                             an audiobook version of their work.
                         </p>
                         <div class="row">
-                            <!-- <div class="col-md-4 col-6">
-                    <button
-                      class="w-100 mb-3"
-                      data-bs-toggle="modal"
-                      data-bs-target="#quote">
-                      Get Started
-                    </button>
-                  </div> -->
                             <div class="col-md-4 col-3">
                                 <a href="<?php echo PHONE_HREF; ?>" aria-label="Call Us now to discuss you project"
                                     class="icona d-flex align-items-center justify-content-start"><span

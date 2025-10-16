@@ -271,7 +271,7 @@
                                     </div>
                                 </li>
                                 <li class="py-lg-5">
-                                    <a href="book-publishing">Book Publishing</a>
+                                    <a href="testimonials">Testimonials</a>
                                 </li>
                                 <li class="py-lg-5"><a href="about-us">About Us</a></li>
                                 <li class="py-lg-5">

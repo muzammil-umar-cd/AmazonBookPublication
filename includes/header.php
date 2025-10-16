@@ -18,7 +18,7 @@
                       <span class="nav-open icon">×</span>
                     </div>
                     <div class="col-6">
-                      <a href="index" class="logo d-block" aria-label="Home page"><img class="lozad logo"
+                      <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo"
                           alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
                     </div>
                     <div class="col-3">
@@ -163,7 +163,7 @@
                   </div>
                 </li>
                 <li class="py-lg-5">
-                  <a href="book-publishing">Book Publishing</a>
+                  <a href="testimonials">Testimonials</a>
                 </li>
                 <li class="py-lg-5"><a href="about-us">About Us</a></li>
                 <li class="py-lg-5">
@@ -195,7 +195,7 @@
               </ul>
             </div>
             <div class="col-xl-3 col-lg-3 col-md-4 col-6 text-center">
-              <a href="index" class="logo d-block" aria-label="Home page"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
+              <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
                   data-src="assets/img/logo/ABP-Halloween-Logo.png" /></a>
             </div>
             <div class="col-xl-4 col-lg-4 d-none d-lg-block">
