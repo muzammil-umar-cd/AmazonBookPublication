@@ -67,12 +67,12 @@
 
   <style type="text/css">
     :root {
-        --clr-1: 250, 193, 0;
-        --clr-2: 225, 183, 145;
-        --clr-3: 243, 232, 227;
-        --dark-color: 22, 25, 37;
-        --light-color: 248, 248, 255;
-    }
+            --clr-1: 216, 94, 14;
+            --clr-2: 225, 183, 145;
+            --clr-3: 243, 232, 227;
+            --dark-color: 22, 25, 37;
+            --light-color: 248, 248, 255;
+        }
   </style>
   <link rel="preload" fetchpriority="high" as="image" href="assets/img/logo/ABP-logo1.png" type="image/webp">
 </head>
@@ -759,12 +759,12 @@
 </script>
   <style type="text/css">
     :root {
-        --clr-1: 250, 193, 0;
-        --clr-2: 225, 183, 145;
-        --clr-3: 243, 232, 227;
-        --dark-color: 22, 25, 37;
-        --light-color: 248, 248, 255;
-    }
+            --clr-1: 216, 94, 14;
+            --clr-2: 225, 183, 145;
+            --clr-3: 243, 232, 227;
+            --dark-color: 22, 25, 37;
+            --light-color: 248, 248, 255;
+        }
   </style>
 </body>
 
