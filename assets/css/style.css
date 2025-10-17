@@ -1075,3 +1075,10 @@ span.line {
     padding: 10px !important;
   }
 }
+
+.slick-slide img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
