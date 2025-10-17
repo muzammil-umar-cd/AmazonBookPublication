@@ -24,7 +24,7 @@
         </div>
     </div>
 </section>
-<section class="py-5 text-center lozad right-logo" data-background-image="assets/img/logo/right-ABP-logo1.png">
+<section class="py-5 text-center lozad right-logo" data-background-image="assets/img/logo/right-ABP-logo1.webp">
     <div class="container-xl">
         <div class="row">
             <div class="col-12">
@@ -756,7 +756,7 @@
         </div>
     </div>
     <div class="b-b">
-        <div class="container-xxl lozad footernav" data-background-image="assets/img/logo/right-ABP-logo1.png">
+        <div class="container-xxl lozad footernav" data-background-image="assets/img/logo/right-ABP-logo1.webp">
             <div class="row py-4 justify-content-between">
                 <div class="col-lg-8 col-md-7">
                     <h2 class="f-40">
