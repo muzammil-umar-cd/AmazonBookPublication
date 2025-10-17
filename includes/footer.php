@@ -735,7 +735,7 @@
                                 data-src="assets/img/footer/pay.webp" />
                         </div>
                         <div class="col-md-2 col-6">
-                            <a href="javascript:;" target="_blank"
+                            <a href="javascript:;" 
                                 aria-label="<?php echo WEBSITE_NAME; ?> Trustpilot Reviews">
                                 <img class="lozad footer-img" alt="Trustpilot <?php echo WEBSITE_NAME; ?>"
                                     data-src="assets/img/footer/trustpilot.webp" />
@@ -744,7 +744,7 @@
                         <div class="col-md-1 col-6">
                             <!--<a
                  href=""
-                 target="_blank"
+                 
                  aria-label="<?php echo WEBSITE_NAME; ?> DMCA certificate">-->
                             <img class="lozad footer-img" alt="DMCA Certificate of <?php echo WEBSITE_NAME; ?>"
                                 data-src="assets/img/footer/dmca.webp" />

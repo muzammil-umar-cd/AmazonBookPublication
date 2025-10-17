@@ -136,56 +136,56 @@
       <div class="slider">
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.barnesandnoble.com/" target="_blank"><img
+            <a href="https://www.barnesandnoble.com/" ><img
                 alt="Barnes & Noble's Book of the Year award featured on a shelf, surrounded by various popular book titles."
                 data-lazy="assets/img/platforms/1.webp?V=SADADS" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.theatlantic.com/books/" target="_blank"><img
+            <a href="https://www.theatlantic.com/books/" ><img
                 alt="A red triangle centered on a clean white background, creating a striking visual contrast."
                 data-lazy="assets/img/platforms/3.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.harpercollins.com/" target="_blank"><img
+            <a href="https://www.harpercollins.com/" ><img
                 alt="Harper Colleagues logo showcasing sleek lettering and a contemporary aesthetic, representing professionalism and collaboration."
                 data-lazy="assets/img/platforms/4.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.lulu.com/" target="_blank"><img
+            <a href="https://www.lulu.com/" ><img
                 alt="Logo of Lulu, a company specializing in book sales, featuring a distinctive design that represents literature and creativity."
                 data-lazy="assets/img/platforms/5.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.apple.com/apple-books/" target="_blank"><img
+            <a href="https://www.apple.com/apple-books/" ><img
                 alt="The Apple Books logo showcases a book in the center, representing a blend of technology and literature."
                 data-lazy="assets/img/platforms/6.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.ingramspark.com/" target="_blank"><img
+            <a href="https://www.ingramspark.com/" ><img
                 alt="The logo of the company is featured, representing its unique branding and visual identity."
                 data-lazy="assets/img/platforms/7.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://www.kobo.com/" target="_blank"><img
+            <a href="https://www.kobo.com/" ><img
                 alt="A logo depicting the essence of the writing life, showcasing a pen and paper to illustrate the art of writing."
                 data-lazy="assets/img/platforms/8.webp" /></a>
           </div>
         </div>
         <div class="item px-4">
           <div class="platform">
-            <a href="https://kdp.amazon.com" target="_blank"><img
+            <a href="https://kdp.amazon.com" ><img
                 alt="Amazon logo displayed prominently in the image, showcasing its recognizable design and branding."
                 data-lazy="assets/img/platforms/9.webp" /></a>
           </div>
@@ -193,7 +193,7 @@
         <div class="item px-4">
           <div class="platform">
             <a href="https://apps.apple.com/us/app/google-play-books-audiobooks/id400989007"
-              target="_blank"><img
+              ><img
                 alt="Digiplay Books logo showcasing a creative and colorful design, emphasizing innovation in children's literature"
                 data-lazy="assets/img/platforms/10.webp" /></a>
           </div>

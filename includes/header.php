@@ -182,12 +182,12 @@
                   <ul class="list-unstyled d-flex justify-content-start">
                     <li class="me-3 ms-0">
                       <a href="javascript:;"
-                        aria-label="Like and follow Book publishing professional's facbook page" target="_blank"><span
+                        aria-label="Like and follow Book publishing professional's facbook page" ><span
                           class="icon-fb"></span></a>
                     </li>
                     <li class="me-3 ms-0">
                       <a href="javascript:;"
-                        aria-label="Follow Book publishing professional's on Instagram" target="_blank"><span
+                        aria-label="Follow Book publishing professional's on Instagram" ><span
                           class="icon-insta"></span></a>
                     </li>
                   </ul>

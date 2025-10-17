@@ -294,12 +294,12 @@
                                         <li class="me-3 ms-0">
                                             <a href="javascript:;"
                                                 aria-label="Like and follow Book publishing professional's facbook page"
-                                                target="_blank"><span class="icon-fb"></span></a>
+                                                ><span class="icon-fb"></span></a>
                                         </li>
                                         <li class="me-3 ms-0">
                                             <a href="javascript:;"
                                                 aria-label="Follow Book publishing professional's on Instagram"
-                                                target="_blank"><span class="icon-insta"></span></a>
+                                                ><span class="icon-insta"></span></a>
                                         </li>
                                     </ul>
                                 </li>
@@ -383,12 +383,12 @@
                                                     <li class="me-3">
                                                         <a href="javascript:;"
                                                             aria-label="Like and follow <?php echo WEBSITE_NAME; ?> facbook page"
-                                                            target="_blank"><span class="icon-fb icon"></span></a>
+                                                            ><span class="icon-fb icon"></span></a>
                                                     </li>
                                                     <li class="me-3">
                                                         <a href="javascript:;"
                                                             aria-label="Follow <?php echo WEBSITE_NAME; ?> on Instagram"
-                                                            target="_blank"><span class="icon-insta icon"></span></a>
+                                                            ><span class="icon-insta icon"></span></a>
                                                     </li>
                                                 </ul>
                                             </span>
@@ -504,7 +504,7 @@
                                             data-src="assets/img/footer/pay.webp" />
                                     </div>
                                     <div class="col-md-2 col-6">
-                                        <a href="javascript:;" target="_blank"
+                                        <a href="javascript:;" 
                                             aria-label="<?php echo WEBSITE_NAME; ?> Trustpilot Reviews">
                                             <img class="lozad footer-img" alt="Trustpilot <?php echo WEBSITE_NAME; ?>"
                                                 data-src="assets/img/footer/trustpilot.webp" />
@@ -513,7 +513,7 @@
                                     <div class="col-md-1 col-6">
                                         <!--<a
                  href=""
-                 target="_blank"
+                 
                  aria-label="<?php echo WEBSITE_NAME; ?> DMCA certificate">-->
                                         <img class="lozad footer-img"
                                             alt="DMCA Certificate of <?php echo WEBSITE_NAME; ?>"
