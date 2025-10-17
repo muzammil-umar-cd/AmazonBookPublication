@@ -679,10 +679,7 @@
     <script type="text/javascript" src="assets/js/plugin.js"></script>
     <script type="text/javascript" src="assets/js/lozad.min.js"></script>
     <script src="assets/js/gsap.min.js"></script>
-    <script type="text/javascript" src="assets/js/ScrollSmoother.min.js"></script>
-    <link rel="preconnect" href="https://cdnjs.cloudflare.com/" />
-    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/" />
-    <script src="ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+    <script type="text/javascript" src="assets/js/ScrollSmoother.min.js"></script>    
     <script type="text/javascript" src="assets/js/ScrollToPlugin.min.js"></script>
     <script type="text/javascript" src="assets/js/ScrollTrigger.min.js"></script>
     <script type="text/javascript" src="assets/js/global-21.js?19-03-25_05:14:58"></script>
@@ -706,9 +703,6 @@
         };
     </script>
 
-
-    <link rel="preconnect" href="https://cdnjs.cloudflare.com/" />
-    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/" />
     <script src="ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
 
     <!-- Start of designneshelp Zendesk Widget script -->

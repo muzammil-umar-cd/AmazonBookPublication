@@ -643,15 +643,7 @@
   <script type="text/javascript" src="assets/js/lozad.min.js"></script>
   <script src="assets/js/gsap.min.js"></script>
   <script type="text/javascript" src="assets/js/ScrollSmoother.min.js"></script>
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com">
-  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
-  <script src="ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
-
   <script type="text/javascript" src="assets/js/ScrollTrigger.min.js"></script>
-  <!-- <script
-      type="text/javascript"
-      src="assets/js/global-33.js?19-03-25_05:15:18"
-    ></script> -->
   <script type="text/javascript" src="assets/js/case-studies.js?19-03-25_05:15:18"></script>
   <script type="text/javascript" src="assets/js/custom-33.js?19-03-25_05:15:18"></script>
   <script>
@@ -662,76 +654,11 @@
     });
     observer.observe();
   </script>
-  <!--<link rel="preconnect" href="https://www.livechat.com/" />
-     <link rel="dns-prefetch" href="https://www.livechat.com/" />-->
-  <script>
-    //   (window.__lc = window.__lc || {}),
-    //     (window.__lc.license = 18794649),
-    //     (window.__lc.integration_name = "manual_onboarding"),
-    //     (window.__lc.product_name = "livechat"),
-    //     (function (n, t, c) {
-    //       function e(n) {
-    //         return l._h ? l._h.apply(null, n) : l._q.push(n);
-    //       }
-    //       var l = {
-    //         _q: [],
-    //         _h: null,
-    //         _v: "2.0",
-    //         on: function () {
-    //           e(["on", c.call(arguments)]);
-    //         },
-    //         once: function () {
-    //           e(["once", c.call(arguments)]);
-    //         },
-    //         off: function () {
-    //           e(["off", c.call(arguments)]);
-    //         },
-    //         get: function () {
-    //           if (!l._h)
-    //             throw Error(
-    //               "[LiveChatWidget] You can't use getters before load."
-    //             );
-    //           return e(["get", c.call(arguments)]);
-    //         },
-    //         call: function () {
-    //           e(["call", c.call(arguments)]);
-    //         },
-    //         init: function () {
-    //           var n = t.createElement("script");
-    //           (n.async = !0),
-    //             (n.type = "text/javascript"),
-    //             (n.src = "https://cdn.livechatinc.com/tracking.js"),
-    //             t.head.appendChild(n);
-    //         },
-    //       };
-    //       n.__lc.asyncInit || l.init(),
-    //         (n.LiveChatWidget = n.LiveChatWidget || l);
-    //     })(window, document, [].slice);
-    // 
-  </script>
-
-  <script>
-    //   let eventCounter = 0;
-    //   function onNewEvent(e) {
-    //     1 != ++eventCounter &&
-    //       "message" === e.type &&
-    //       LiveChatWidget.call("maximize");
-    //   }
-    //   LiveChatWidget.on("new_event", onNewEvent);
-    //   $(document).ready(function () {
-    //     $(".chat, .chatt").click(function () {
-    //       LiveChatWidget.call("maximize");
-    //     });
-    //   });
-    // 
-  </script>
   <style>
     #chat-widget-container { 
       max-height: 500px !important;
     }
   </style>
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com">
-  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
   <script src="ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
 
   
