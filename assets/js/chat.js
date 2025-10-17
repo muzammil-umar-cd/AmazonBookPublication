@@ -23,17 +23,22 @@ $(".livechat, .live_chatt, .chatt, .chat, #flashing").click(function () {
   qp("track", "GenerateLead");
   return false;
 });
-$(window).on("load", function () {
-  $zopim.livechat.window.toggle();
-});
-zE(function () {
-  zE.activate();
-});
+if (window.innerWidth > 768) {
+  $(window).on("load", function () {
+    // show chat if there are unread messages and user is on desktop
+    $zopim.livechat.window.toggle();
+    $zopim.livechat.window.show();
+  });
+}
+// zE(function () {
+//   zE.activate();
+// });
 zE(function () {
   $zopim(function () {
     $zopim.livechat.setOnUnreadMsgs(unread);
     function unread(number) {
       if (number >= 1) {
+        // show chat if there are unread messages and user is on desktop
         $zopim.livechat.window.toggle();
         $zopim.livechat.window.show();
       }
