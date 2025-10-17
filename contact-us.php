@@ -49,14 +49,12 @@
         media="all" />
     <link rel="preload" as="font" type="font/eot" href="assets/css/fonts/slick.eot" crossorigin="anonymous"
         media="all" />
-    <link rel="preload" as="font" type="font/eot" href="assets/css/fonts/icomoone173.eot?19-03-25_05:14:12"
+    <link rel="preload" as="font" type="font/eot" href="assets/css/fonts/icomoon.eot?19-03-25_05:14:12"
         crossorigin="anonymous" media="all" />
-    <link rel="preload" as="font" type="font/ttf" href="assets/css/fonts/icomoone173.ttf?19-03-25_05:14:12"
+    <link rel="preload" as="font" type="font/ttf" href="assets/css/fonts/icomoon.ttf?19-03-25_05:14:12"
         crossorigin="anonymous" media="all" />
-    <link rel="preload" as="font" type="font/woff" href="assets/css/fonts/icomoone173.woff?19-03-25_05:14:12"
+    <link rel="preload" as="font" type="font/woff" href="assets/css/fonts/icomoon.woff?19-03-25_05:14:12"
         crossorigin="anonymous" media="all" />
-    <link rel="preconnect" href="https://cdn.jsdelivr.net/" />
-    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net/" />
     <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/vendor.css?19-03-25_05:14:12"
         crossorigin="anonymous" media="all" />
     <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/style.css?19-03-25_05:14:12"
@@ -111,7 +109,7 @@
                                         <div class="col-6">
                                             <a href="/" class="logo d-block" aria-label="Home page"><img
                                                     class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
-                                                    data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
+                                                    data-src="assets/img/logo/ABP-Halloween-Light.webp" /></a>
                                         </div>
                                         <div class="col-3">
                                             <a href="<?php echo PHONE_HREF; ?>"
@@ -307,7 +305,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-4 col-6 text-center">
                             <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo"
-                                    alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Logo.png" /></a>
+                                    alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Logo.webp" /></a>
                         </div>
                         <div class="col-xl-4 col-lg-4 d-none d-lg-block">
                             <div class="row">
@@ -490,7 +488,7 @@
                         <div class="row py-4 align-items-center justify-content-between">
                             <div class="col-lg-3 col-md-3">
                                 <a href="/"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
-                                        data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
+                                        data-src="assets/img/logo/ABP-Halloween-Light.webp" /></a>
                             </div>
                             <div class="col-xl-8 col-md-9">
                                 <div class="row justify-content-between align-items-center">

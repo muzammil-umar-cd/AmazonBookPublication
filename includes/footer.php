@@ -722,7 +722,7 @@
             <div class="row py-4 align-items-center justify-content-between">
                 <div class="col-lg-3 col-md-3">
                     <a href="/"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
-                            data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
+                            data-src="assets/img/logo/ABP-Halloween-Light.webp" /></a>
                 </div>
                 <div class="col-xl-8 col-md-9">
                     <div class="row justify-content-between align-items-center">

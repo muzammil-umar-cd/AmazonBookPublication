@@ -123,7 +123,7 @@
     <div class=content>
         <div class="wrapper-1">
             <div class="wrapper-2">
-                <img src="assets/img/logo/ABP-Halloween-Logo.png" />
+                <img src="assets/img/logo/ABP-Halloween-Logo.webp" />
                 <h1 style="display: flex;justify-content: center;"><lottie-player src="success.json" speed="1" style="width: 30%; height: auto" loop="" autoplay="" direction="1" mode="normal"></lottie-player></h1>
                 <p>Thanks for contacting us, we will reply</p>
                 <p> promptly once your message is received. </p>

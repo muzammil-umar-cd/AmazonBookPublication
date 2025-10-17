@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-6">
                       <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo"
-                          alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Light.png" /></a>
+                          alt="<?php echo WEBSITE_NAME; ?>" data-src="assets/img/logo/ABP-Halloween-Light.webp" /></a>
                     </div>
                     <div class="col-3">
                       <a href="<?php echo PHONE_HREF; ?>" aria-label="Call Us now to discuss you project"
@@ -196,7 +196,7 @@
             </div>
             <div class="col-xl-3 col-lg-3 col-md-4 col-6 text-center">
               <a href="/" class="logo d-block" aria-label="Home page"><img class="lozad logo" alt="<?php echo WEBSITE_NAME; ?>"
-                  data-src="assets/img/logo/ABP-Halloween-Logo.png" /></a>
+                  data-src="assets/img/logo/ABP-Halloween-Logo.webp" /></a>
             </div>
             <div class="col-xl-4 col-lg-4 d-none d-lg-block">
               <div class="row">
