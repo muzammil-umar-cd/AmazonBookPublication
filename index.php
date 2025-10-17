@@ -206,7 +206,7 @@
   <div class="cut bg-1 py-5">
     <div class="container-xl mt-5 clr-l text-md-start text-center">
       <div class="row wrapper justify-content-between">
-        <div class="col-xl-5 col-md-6 fixed-element">
+        <div class="col-xl-5 col-md-6 fixed-element" id="fixedScroll">
           <div class="row h-100">
             <div class="col-12 align-self-center">
               <h2 class="f-40">

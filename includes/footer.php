@@ -963,6 +963,16 @@
     });
 </script>
 
+<script>
+    
+$(document).ready(function () {
+  var target = $("#fixedScroll");
+  if (window.innerWidth <= 768) {
+    target.removeClass("fixed-element");
+  }
+});
+</script>
+
 <style type="text/css">
     :root {
         --clr-1: 216, 94, 14;
