@@ -833,6 +833,10 @@
     <script type="text/javascript" src="assets/js/lozad.min.js"></script>
     <script src="assets/js/gsap.min.js"></script>
     <script type="text/javascript" src="assets/js/ScrollSmoother.min.js"></script>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+    <script src="ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+
     <script type="text/javascript" src="assets/js/ScrollTrigger.min.js"></script>
     <script type="text/javascript" src="assets/js/case-studies.js?19-03-25_05:15:18"></script>
     <script type="text/javascript" src="assets/js/custom-33.js?19-03-25_05:15:18"></script>
@@ -850,6 +854,8 @@
         max-height: 500px !important;
     }
     </style>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
     <script src="ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
 
     
