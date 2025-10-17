@@ -936,8 +936,6 @@
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
 <script src="ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/intlTelInput-jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/intl-tel-input@17.0.12/build/js/utils.min.js"></script>
 
 <script>
     window.LC_API = window.LC_API || {};

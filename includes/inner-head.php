@@ -39,8 +39,6 @@
     crossorigin="anonymous" media="all" />
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
   <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
-  <link rel="stylesheet" rel="preload" as="style" type="text/css"
-    href="npm/intl-tel-input%4018.2.1/build/css/intlTelInput.min.css" />
   <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/vendor.css?19-03-25_05:14:12"
     crossorigin="anonymous" media="all" />
   <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/style.css?19-03-25_05:14:12"

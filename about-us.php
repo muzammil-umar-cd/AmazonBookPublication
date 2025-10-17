@@ -57,8 +57,6 @@
         crossorigin="anonymous" media="all" />
     <link rel="preconnect" href="https://cdn.jsdelivr.net/" />
     <link rel="dns-prefetch" href="https://cdn.jsdelivr.net/" />
-    <link rel="stylesheet" rel="preload" as="style" type="text/css"
-        href="npm/intl-tel-input%4018.2.1/build/css/intlTelInput.min.css" />
     <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/vendor.css?19-03-25_05:14:12"
         crossorigin="anonymous" media="all" />
     <link rel="stylesheet" rel="preload" as="style" type="text/css" href="assets/css/style.css?19-03-25_05:14:12"
@@ -1122,8 +1120,6 @@
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
     <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
     <script src="ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.2.1/build/js/intlTelInput-jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@17.0.12/build/js/utils.min.js"></script>
     <script>
     window.LC_API = window.LC_API || {};
     window.LC_API.on_message = function(data) {
