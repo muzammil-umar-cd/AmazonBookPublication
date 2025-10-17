@@ -701,79 +701,79 @@
                     <div class="portfolio-slider">
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P2.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P2.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P3.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P5.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P6.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P7.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P3.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
 
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P9.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P5.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P10.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P6.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P11.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P7.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="gallery">
+                                <img data-lazy="assets/img/portfolio/P9.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P12.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P10.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P13.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P11.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P14.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P12.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P15.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P13.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P1.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P14.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P17.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P15.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                         <div class="item">
                             <div class="gallery">
-                                <img data-lazy="assets/img/portfolio/P18.png" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                                <img data-lazy="assets/img/portfolio/P1.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="gallery">
+                                <img data-lazy="assets/img/portfolio/P17.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="gallery">
+                                <img data-lazy="assets/img/portfolio/P18.webp" alt="Portfolio by <?php echo WEBSITE_NAME; ?>" />
                             </div>
                         </div>
                     </div>

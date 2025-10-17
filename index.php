@@ -22,87 +22,87 @@
     <div class="d-flex flex-nowrap bannerbooks" id="bannerbook">
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P2.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P2.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P3.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P3.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P4.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P4.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P5.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P5.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P6.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P6.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P7.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P7.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P8.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P8.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P9.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P9.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P10.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P10.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P11.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P11.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P12.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P12.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P13.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P13.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P14.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P14.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P15.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P15.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P1.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P1.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P17.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P17.webp" alt="Portfolio img" />
         </div>
       </div>
       <div class="item">
         <div class="bannerbook">
-          <img class="lozad" data-src="assets/img/portfolio/P18.png" alt="Portfolio img" />
+          <img class="lozad" data-src="assets/img/portfolio/P18.webp" alt="Portfolio img" />
         </div>
       </div>
     </div>
